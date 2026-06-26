@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0037-sudoku-solver) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/1833-maximum-ice-cream-bars) |
@@ -32,4 +33,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0516-longest-palindromic-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0037-sudoku-solver) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
