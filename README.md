@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0344-reverse-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0516-longest-palindromic-subsequence) |
 ## Dynamic Programming
 |  |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
