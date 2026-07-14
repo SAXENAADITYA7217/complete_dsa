@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0312-burst-balloons](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0312-burst-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/1833-maximum-ice-cream-bars) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Greedy
@@ -85,9 +86,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
