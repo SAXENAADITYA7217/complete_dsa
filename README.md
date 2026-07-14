@@ -30,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0087-scramble-string](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0087-scramble-string) |
 | [0344-reverse-string](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0344-reverse-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0516-longest-palindromic-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0087-scramble-string](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0087-scramble-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0312-burst-balloons](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0312-burst-balloons) |
