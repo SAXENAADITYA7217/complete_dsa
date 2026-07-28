@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0312-burst-balloons](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0312-burst-balloons) |
 | [0516-longest-palindromic-subsequence](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0516-longest-palindromic-subsequence) |
+| [0887-super-egg-drop](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0887-super-egg-drop) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0070-climbing-stairs) |
+| [0887-super-egg-drop](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0887-super-egg-drop) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0887-super-egg-drop](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0887-super-egg-drop) |
 <!---LeetCode Topics End-->
