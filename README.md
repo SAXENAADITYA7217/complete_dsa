@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -109,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0887-super-egg-drop](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0887-super-egg-drop) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
