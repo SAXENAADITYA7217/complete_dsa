@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0087-scramble-string) |
 | [0344-reverse-string](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0344-reverse-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0516-longest-palindromic-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0344-reverse-string) |
+| [1768-merge-strings-alternately](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/1768-merge-strings-alternately) |
 ## Depth-First Search
 |  |
 | ------- |
