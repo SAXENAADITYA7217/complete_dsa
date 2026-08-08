@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0312-burst-balloons](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0312-burst-balloons) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1833-maximum-ice-cream-bars](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1833-maximum-ice-cream-bars](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0312-burst-balloons) |
 | [0516-longest-palindromic-subsequence](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0887-super-egg-drop](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0887-super-egg-drop) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
 |  |
