@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0342-power-of-four) |
 | [0887-super-egg-drop](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0887-super-egg-drop) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -145,4 +146,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0342-power-of-four) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
