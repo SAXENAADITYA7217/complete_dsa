@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0342-power-of-four) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0509-fibonacci-number) |
