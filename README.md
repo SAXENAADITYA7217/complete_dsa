@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0242-valid-anagram) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1833-maximum-ice-cream-bars](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0087-scramble-string) |
+| [0242-valid-anagram](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0344-reverse-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/1768-merge-strings-alternately) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0037-sudoku-solver) |
+| [0242-valid-anagram](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0242-valid-anagram) |
 ## Backtracking
 |  |
 | ------- |
