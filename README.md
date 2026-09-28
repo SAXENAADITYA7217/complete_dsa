@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0509-fibonacci-number) |
 | [0887-super-egg-drop](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0887-super-egg-drop) |
+| [1922-count-good-numbers](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/1922-count-good-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
