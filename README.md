@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0020-valid-parentheses) |
 | [0087-scramble-string](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0087-scramble-string) |
 | [0242-valid-anagram](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0344-reverse-string) |
@@ -162,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0342-power-of-four) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
