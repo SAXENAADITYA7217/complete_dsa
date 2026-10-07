@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0887-super-egg-drop](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0887-super-egg-drop) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2685-count-the-number-of-complete-components](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/2685-count-the-number-of-complete-components) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/0509-fibonacci-number) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/SAXENAADITYA7217/complete_dsa/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Binary Search
 |  |
 | ------- |
