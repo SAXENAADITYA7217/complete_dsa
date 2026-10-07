@@ -6,8 +6,8 @@ class Solution {
         if(x<y){
             return y-x;
         }
-        int limit = 2* Math.max(x,y)+30;
-        boolean visted[]  = new boolean[limit];
+       
+        boolean visted[]  = new boolean[100000];
         Queue<Integer> q = new LinkedList<>();
         q.add(x);
         int count = 0;
@@ -25,7 +25,7 @@ class Solution {
                     q.add(curr-1);
                     visted[curr-1] = true;
                 }
-                if(curr+1<limit && !visted[curr+1]){
+                if(curr+1<100000 && !visted[curr+1]){
                     q.add(curr+1);
                     visted[curr+1]  = true;
                 }
